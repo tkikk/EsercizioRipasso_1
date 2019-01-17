@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_Ripasso", "Wpf_Ripasso\Wpf_Ripasso.csproj", "{1D061648-7170-4B4E-BC3D-6FE774037A0F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{636DC749-C52E-4F32-A613-0FE0221B32AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1D061648-7170-4B4E-BC3D-6FE774037A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1D061648-7170-4B4E-BC3D-6FE774037A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1D061648-7170-4B4E-BC3D-6FE774037A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1D061648-7170-4B4E-BC3D-6FE774037A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{636DC749-C52E-4F32-A613-0FE0221B32AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636DC749-C52E-4F32-A613-0FE0221B32AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636DC749-C52E-4F32-A613-0FE0221B32AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636DC749-C52E-4F32-A613-0FE0221B32AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {77413943-F293-40E5-88B6-4F7CA6CB9BE3}
+		SolutionGuid = {AE047350-B982-4B23-9E22-82941CC728DF}
 	EndGlobalSection
 EndGlobal
